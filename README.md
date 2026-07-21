@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm REHAN </h1>
+<img width="1384" height="722" alt="{37BD4087-51B6-4229-8284-9A1718351F09}" src="https://github.com/user-attachments/assets/714bc1a4-575e-41a4-bb02-fee1f3aa0883" /><h1>Hi 👋, I'm REHAN </h1>
 <p>A passionate fullstack, ai ml and datascience  developer from Hyderabad </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
@@ -35,6 +35,19 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=ozrehan&show_icons=true&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ozrehan&theme=codeSTACKr&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=ozrehan&show_icons=true&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://x.com/oz_rehan" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/ozrehan/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
@@ -43,6 +56,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozrehan&" alt="ozrehan" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ozrehan&show_icons=true&locale=en&layout=compact" alt="ozrehan" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ozrehan" alt="ozrehan" /></a></p>
+
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/ozrehan">
